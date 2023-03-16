@@ -1,0 +1,10 @@
+[
+  {
+    "package": "tsvr",
+    "oncran": true
+  },
+  {
+    "package": "wsyn",
+    "oncran": true
+  }
+]
