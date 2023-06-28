@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tsvr"]
 	path = tsvr
 	url = https://github.com/reumandc/tsvr
-	shallow = true
-	registered = true
 [submodule "wsyn"]
 	path = wsyn
 	url = https://github.com/reumandc/wsyn
-	shallow = true
-	registered = true
